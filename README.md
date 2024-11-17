@@ -1,13 +1,13 @@
-# Predicting Heart Disease Risk with Logistic Regression Techniques
+# Intelligent Hate Speech Detection Using Bidirectional LSTM
 
 ## Project Overview
-This project implements logistic regression techniques to predict the risk of heart disease based on various health metrics and patient data. The model aims to assist healthcare professionals in early diagnosis and intervention.
+This project employs natural language processing (NLP) and deep learning techniques to detect hate speech in text data, contributing to safer online environments.
 
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
 - [Dataset](#dataset)
-- [Model Evaluation](#model-evaluation)
+- [Model Architecture](#model-architecture)
 - [Results](#results)
 - [Contributing](#contributing)
 - [License](#license)
@@ -16,6 +16,7 @@ This project implements logistic regression techniques to predict the risk of he
 To set up the project, clone the repository and install the required packages using the following commands:
 
 ```bash
-git clone https://github.com/yourusername/Predicting-Heart-Disease-Risk-with-Logistic-Regression.git
-cd Predicting-Heart-Disease-Risk-with-Logistic-Regression
+git clone https://github.com/yourusername/Intelligent-Hate-Speech-Detection.git
+cd Intelligent-Hate-Speech-Detection
 pip install -r requirements.txt
+```
