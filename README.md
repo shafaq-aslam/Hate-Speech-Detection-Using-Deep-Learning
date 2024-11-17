@@ -6,6 +6,7 @@ This project employs natural language processing (NLP) and deep learning techniq
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
+- [Work Flow](#workflow)
 - [Dataset](#dataset)
 - [Model Architecture](#model-architecture)
 - [Results](#results)
@@ -22,8 +23,11 @@ pip install -r requirements.txt
 ## Usage
 jupyter notebook <a href = "notebook.ipynb"> Notebook <a/>
 
+## Work Flow
+
+
 ## Dataset
-The dataset used for this project consists of labeled text data containing instances of hate speech and non-hate speech, sourced from various online platforms.
+The dataset used for this project consists of labeled text data containing instances of hate speech and non-hate speech, sourced from various online platforms. <a href = "Dataset.csv">Dataset<a/>
 
 ## Model Architecture
 The model architecture typically includes:
